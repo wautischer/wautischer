@@ -2,11 +2,11 @@
 
 
 
-## I'm a Student, Developer an CO-Founder
+## I'm a Student, Developer and CO-Founder
 
-- 🌱 I’m currently learning how to build an App
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Motto: Always surround yourself with positive people. Never allow yourself to be pulled into negativity! That only leads to a negative lifestyle. 
+- I’m currently learning how to build an App
+- 2022 Goals: Contribute more to Open Source projects
+- Motto: Always surround yourself with positive people. Never allow yourself to be pulled into negativity! That only leads to a negative lifestyle. 
 
 ### Connect with me:
 
