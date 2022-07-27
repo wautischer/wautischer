@@ -37,5 +37,5 @@
 [website]: https://wautischer.com
 [twitter]: https://twitter.com/lwautischer
 [instagram]: https://instagram.com/laurinwautischer
-[linkedin]: https://linkedin.com/laurinwautischer
+[linkedin]: https://www.linkedin.com/in/laurin-wautischer-670802203/
 
