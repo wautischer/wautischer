@@ -2,7 +2,7 @@
 
 
 
-## I'm a Student and Developer
+### I'm a Student and Developer
 
 ### Connect with me:
 
