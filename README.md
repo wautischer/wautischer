@@ -2,11 +2,7 @@
 
 
 
-## I'm a Student, Developer and CO-Founder
-
-- I’m currently learning the basics of WebDesign/Development.
-- 2022 Goals: Be mature in building Websites and little arcard Games.
-- Quote: Always surround yourself with positive people. Never allow yourself to be pulled into negativity! That only leads to a negative lifestyle. 
+## I'm a Student and Developer
 
 ### Connect with me:
 
