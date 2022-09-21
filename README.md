@@ -1,8 +1,8 @@
 ### Hi there, I'm Laurin Wautischer 👋
 
-
-
-### I'm a Student and Developer
+<img align="left" alt="Laurin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wautischer&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  
+![Laurin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wautischer&show_icons=true&theme=radical)
 
 ### Connect with me:
 
@@ -24,16 +24,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
 <br />
 <br />
-
-//General Github stats
-<img align="left" alt="Laurin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wautischer&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  
-  //Programming Language stats
-  ![Laurin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wautischer&show_icons=true&theme=radical)
-
 
 [website]: https://wautischer.com
 [twitter]: https://twitter.com/lwautischer
