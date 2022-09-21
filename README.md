@@ -1,7 +1,7 @@
 ## Hi there, I'm Laurin Wautischer 👋
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"![Laurin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wautischer&show_icons=true&theme=radical) />
-
+                                                                                                                                <p></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wautischer&layout=compact)](https://github.com/anuraghazra/github-readme-stats) />
 
 
