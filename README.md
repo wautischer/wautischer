@@ -1,8 +1,10 @@
-## Hi there, I'm Laurin Wautischer 👋
+## <p align="center">『Laurin Wautischer』</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wautischer&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img width="54%" align="center" src="https://github-readme-stats.vercel.app/api?username=wautischer&show_icons=true&theme=radical">
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wautischer&theme=dark&hide_border=true&layout=compact">
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wautischer&show_icons=true&theme=radical)
 
 ### Connect with me:
 
