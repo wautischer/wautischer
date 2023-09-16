@@ -5,38 +5,39 @@
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wautischer&theme=dark&hide_border=true&layout=compact">
 </p>
 
-### Connect with me:
-
-[<img align="left" alt="lw" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="lw | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="lw | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="lw | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br>
 ### IDEs:
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+<img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2026-pt4psh5t.png" alt="intellij" width="auto" height="30">
+<img src="https://github.com/wautischer/wautischer/assets/78680534/d6f50e5d-d726-4d86-91a5-e168993579d5" alt="pycharm" width="auto" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_Studio_Trademark.svg/2560px-Android_Studio_Trademark.svg.png" alt="android studio" width="auto" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" alt="arduino ide" width="auto" height="30">
 
 ### Languages:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="java" width="auto" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="c++" width="auto" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="javascript" width="auto" height="30">
+<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="python" width="auto" height="30">
+
+### Frontend Development
+<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" width="auto" height="30">
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/w_html_logo_icon_170241.png" alt="html5" width="auto" height="30">
+<img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="react Ubuntu" width="auto" height="30">
+
+### Mobile App Development
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/2346px-Android_logo_2019_%28stacked%29.svg.png" alt="android studio" width="auto" height="30">
+<img src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="kotlin" width="auto" height="25">
+
+### Database
+<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" alt="mysql" width="auto" height="40">
+<img src="https://logonoid.com/images/sql-server-logo.png" alt="sql server" width="auto" height="60">
 
 ### DevOps tool
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="auto" height="30">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" width="auto" height="30">
 
 ### Operating System:
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windows_11_logo.svg/2560px-Windows_11_logo.svg.png" alt="Windows" width="auto" height="25">
+<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-1.svg" alt="Linux Ubuntu" width="auto" height="30">
 
-### Search Engine:
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 
-### Organization Application
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-[website]: https://wautischer.com
-[twitter]: https://twitter.com/lwautischer
-[instagram]: https://instagram.com/laurinwautischer
-[linkedin]: https://www.linkedin.com/in/laurin-wautischer-670802203/
 
