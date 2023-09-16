@@ -1,8 +1,8 @@
 ## <p align="center">『Laurin Wautischer』</p>
 
 <p align="center">
-  <img width="54%" align="center" src="https://github-readme-stats.vercel.app/api?username=egger&show_icons=true&theme=radical">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egger&theme=dark&hide_border=true&layout=compact">
+  <img width="54%" align="center" src="https://github-readme-stats.vercel.app/api?username=wautischer&show_icons=true&theme=radical">
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wautischer&theme=dark&hide_border=true&layout=compact">
 </p>
 
 ### IDEs:
