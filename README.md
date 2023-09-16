@@ -1,9 +1,15 @@
 ## <p align="center">『Laurin Wautischer』</p>
 
-<p align="center">
-  <img width="54%" align="center" src="https://github-readme-stats.vercel.app/api?username=wautischer&show_icons=true&theme=radical">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wautischer&theme=dark&hide_border=true&layout=compact">
-</p>
+<a href="https://github.com/wautischer/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wautischer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/wautischer/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wautischer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/wautischer/dcPythonBotSlashCmd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wautischer&repo=dcPythonBotSlashCmd&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 ### IDEs:
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg" alt="intellij" width="auto" height="30"><img src="https://cdn.iconscout.com/icon/free/png-256/free-pycharm-1175008.png" alt="pycharm" width="auto" height="30"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AndroidStudio-Dark.svg" alt="android studio" width="auto" height="30"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Arduino.svg" alt="arduino ide" width="auto" height="30"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="vsc" width="auto" height="30">
