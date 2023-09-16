@@ -2,7 +2,7 @@
 
 <p align="center">
   <img width="54%" align="center" src="https://github-readme-stats.vercel.app/api?username=wautischer&show_icons=true&theme=radical">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wautischer&theme=dark&hide_border=true&layout=compact">
+    <img width="45%" align="center" src="">
 </p>
 
 ### IDEs:
