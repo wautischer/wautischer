@@ -20,7 +20,9 @@
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html" width="40" height="40"/>&nbsp;
+</p>
+<p>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html" width="40" height="40"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react" width="40" height="40"/>&nbsp;
 <img src="https://www.pngmart.com/files/13/Android-Logo-Transparent-PNG.png" alt="android" width="40" height="40"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kotlin-Dark.svg" alt="kotlin" width="40" height="40"/>&nbsp;
