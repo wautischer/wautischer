@@ -37,6 +37,7 @@
 <p>
   <img src="https://static.vecteezy.com/system/resources/previews/020/975/574/original/window-10-logo-window-10-icon-transparent-free-png.png" alt="windows 10" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" width="40"/>&nbsp;
 </p>
 
 ### 🔥 &nbsp; My Stats :
