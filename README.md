@@ -6,10 +6,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me :
 
-<p>I am a student located in Austria.</p>
-<p>I am a web and app development enthusiast.</p>
-<p>In my free time, I like to read.</p>
-<p>For more details, visit <a href="https://www.wautischer.dev">my Website</a></p>
+<div>
+  I am a student located in Austria. <br>
+  I am a web and app development enthusiast. <br>
+  In my free time, I like to read. <br>
+  For more details, visit <a href="https://www.wautischer.dev">my Website</a>
+</div>
 <br>
 
 ### ⚙️ &nbsp;Languages and Tools :
