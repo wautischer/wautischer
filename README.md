@@ -10,7 +10,7 @@
   I am a student located in Austria. <br>
   I am a web and app development enthusiast. <br>
   In my free time, I like to read. <br>
-  For more details, visit <a href="https://www.wautischer.dev">my Website</a>
+  For more details, visit <a href="https://www.wautischer.com">my Website</a>
 </div>
 <br>
 
@@ -46,6 +46,7 @@
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" width="40"/>&nbsp;
   <img src="https://static.vecteezy.com/system/resources/previews/020/975/574/original/window-10-logo-window-10-icon-transparent-free-png.png" alt="windows 10" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40"/>&nbsp;
 </p>
 <br>
 
