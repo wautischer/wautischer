@@ -24,7 +24,7 @@ In my free time, I enjoy reading — especially manga and technical books — an
 
 ## ⚙️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,react,vscode,androidstudio,ubuntu,mysql,git,github,gitlab&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,javascript,typescript,react,vscode,androidstudio,ubuntu,mysql,git,github,gitlab&theme=light)](https://skillicons.dev)
 
 
 ## 💻 Operating Systems
