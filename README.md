@@ -19,12 +19,12 @@ In my free time, I enjoy reading — especially manga and technical books — an
 
 ## 🧠 Currently Learning
 
-[![Learning](https://skillicons.dev/icons?i=angular,rust&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=nextjs,rust&theme=light)](https://skillicons.dev)
 
 
 ## ⚙️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,javascript,typescript,react,vscode,androidstudio,ubuntu,mysql,git,github,gitlab&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,javascript,typescript,react,vscode,androidstudio,ubuntu,mysql,git,github&theme=light)](https://skillicons.dev)
 
 
 ## 💻 Operating Systems
