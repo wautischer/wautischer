@@ -27,13 +27,11 @@ In my free time, I enjoy reading — especially manga and technical books — an
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,javascript,typescript,react,vscode,androidstudio,ubuntu,mysql,git,github&theme=light)](https://skillicons.dev)
 
 
-## 💻 Operating Systems
+## 💻 Operating System
 
-[![Operating Systems](https://skillicons.dev/icons?i=linux,apple,windows&theme=light)](https://skillicons.dev)
+[![Operating Systems](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
 
-- **Primary OS:** Fedora Linux (GNOME, Wayland) — daily driver  
-- **macOS:** Mainly for iOS development and university work  
-- **Windows:** Dual-boot, rarely used
+**Primary OS:** Fedora Linux (GNOME, Wayland) — daily driver
 
 
 ## 🔥 GitHub Stats
