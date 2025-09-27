@@ -31,7 +31,7 @@ In my free time, I enjoy reading — especially manga and technical books — an
 
 [![Operating Systems](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
 
-**Primary OS:** Fedora Linux (GNOME, Wayland) — daily driver
+**Primary OS:** Fedora Linux (GNOME, Wayland)
 
 
 ## 🔥 GitHub Stats
